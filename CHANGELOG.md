@@ -6,13 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
+
+
+## [1.0.0] - 2021-03-27
 ### Added
 - Support for synchronous and asynchronous querying of the callook.info API.
 - A basic CLI.
 - Documentation for all classes and functions.
 
 
-<!--
 [Unreleased]: https://github.com/miaowware/callooktools/compare/1.0.0...HEAD
 [1.0.0]: https://github.com/miaowware/callooktools/releases/tag/1.0.0
--->
