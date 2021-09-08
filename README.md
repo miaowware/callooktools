@@ -1,5 +1,7 @@
 # callooktools
 
+# **WARNING:** This library is now deprecated. Use [callsignlookuptools](https://pypi.org/project/callsignlookuptools/) instead.
+
 [Callook.info](https://callook.info) API interface in Python
 
 [![PyPI](https://img.shields.io/pypi/v/callooktools)](https://pypi.org/project/callooktools/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/callooktools) ![PyPI - License](https://img.shields.io/pypi/l/callooktools) [![Documentation Status](https://readthedocs.org/projects/callooktools/badge/?version=latest)](https://callooktools.readthedocs.io/en/latest/?badge=latest)

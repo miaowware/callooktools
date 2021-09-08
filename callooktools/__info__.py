@@ -3,7 +3,7 @@
 
 
 __project__ = "callooktools"
-__summary__ = "callook.info API interface in Python"
+__summary__ = "DEPRECATED - callook.info API interface in Python"
 __webpage__ = "https://callooktools.miaow.io"
 
 __version__ = "1.0.0"
