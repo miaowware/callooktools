@@ -2,6 +2,8 @@
 CallookTools
 ============
 
+.. WARNING:: This library is now deprecated. Use `callsignlookuptools <https://pypi.org/project/callsignlookuptools/>`_ instead.
+
 A Callook.info API interface in Python with sync and async support.
 
 .. highlight:: none
