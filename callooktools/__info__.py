@@ -6,7 +6,7 @@ __project__ = "callooktools"
 __summary__ = "DEPRECATED - callook.info API interface in Python"
 __webpage__ = "https://callooktools.miaow.io"
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 __author__ = "classabbyamp, 0x5c"
 __email__ = "dev@kb6.ee, dev@0x5c.io"
